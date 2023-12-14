@@ -1,0 +1,1 @@
+{"uuid":"db5943cb-1319-41d3-a335-a91d92a6b014","name":"test.T2_RetrieveBoardTest","children":["5bbecabc-4126-4fa0-9980-1adbae941fd9"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1700640078584,"stop":1700640078585}],"afters":[],"start":1700640071649,"stop":1700640088628}

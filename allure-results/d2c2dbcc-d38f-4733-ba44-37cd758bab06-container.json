@@ -1,0 +1,1 @@
+{"uuid":"d2c2dbcc-d38f-4733-ba44-37cd758bab06","name":"test.Test03_AddListToBoardTestCase","children":["774d4973-e4d9-488c-8227-f45dd000ad95"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1700563405738,"stop":1700563405739}],"afters":[],"start":1700563397834,"stop":1700563410675}

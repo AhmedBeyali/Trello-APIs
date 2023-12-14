@@ -1,0 +1,1 @@
+{"uuid":"3e8878d7-57a4-4b4f-947a-f7bbd5941d0f","name":"TrelloAPIS.Test05_RetrieveCardsInListTestCase","children":["33b3c490-ff60-48bf-a231-62dece291203"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1702512743969,"stop":1702512743970}],"afters":[],"start":1702512735385,"stop":1702512748582}

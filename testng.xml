@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="org.testng.reporters.EmailableReporter"/>
+        <listener class-name="org.testng.reporters.XMLReporter"/>
+        <listener class-name="org.testng.reporters.JUnitXMLReporter"/>
+        <listener class-name="org.testng.reporters.TestHTMLReporter"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/Belli/IdeaProjects/ITI_Individual_Project">
+        <classes>
+            <class name="TrelloAPIS.Test01_CreateBoardTestCase">
+                <methods>
+                    <include name="testCreateBoard"/>
+                </methods>
+            </class>
+            <class name="TrelloAPIS.Test02_RetrieveBoardTestCase">
+                <methods>
+                    <include name="testRetrieveBoard"/>
+                </methods>
+            </class>
+            <class name="TrelloAPIS.Test03_AddListToBoardTestCase">
+                <methods>
+                    <include name="testAddListToBoard"/>
+                </methods>
+            </class>
+            <class name="TrelloAPIS.Test04_CreateCardInListTestCase">
+                <methods>
+                    <include name="testCreateCardInList"/>
+                </methods>
+            </class>
+            <class name="TrelloAPIS.Test05_RetrieveCardsInListTestCase">
+                <methods>
+                    <include name="testRetrieveCardsInList"/>
+                </methods>
+            </class>
+            <class name="TrelloAPIS.Test06_DeleteCardTestCase">
+                <methods>
+                    <include name="testDeleteCard"/>
+                </methods>
+            </class>
+            <class name="TrelloAPIS.Test07_DeleteListTestCase">
+                <methods>
+                    <include name="testDeleteList"/>
+                </methods>
+            </class>
+            <class name="TrelloAPIS.Test08_DeleteBoardTest">
+                <methods>
+                    <include name="testDeleteBoard"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

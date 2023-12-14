@@ -1,0 +1,1 @@
+{"uuid":"da59b0c4-7f22-45c0-a8c7-eaa70d4064fb","name":"test.Test07_DeleteListTestCase","children":["3c10204f-606f-4b0b-87ca-d9a4a4b73f8e"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1700563408570,"stop":1700563408571}],"afters":[],"start":1700563397835,"stop":1700563410683}

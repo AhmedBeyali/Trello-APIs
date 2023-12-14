@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-14T02:12:15 EET" name="All Test Suite" finished-at="2023-12-14T02:12:28 EET" duration-ms="13038">
+    <groups>
+    </groups>
+    <test started-at="2023-12-14T02:12:15 EET" name="C:/Users/Belli/IdeaProjects/ITI_Individual_Project" finished-at="2023-12-14T02:12:28 EET" duration-ms="13038">
+      <class name="TrelloAPIS.Test04_CreateCardInListTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TrelloAPIS.Test04_CreateCardInListTestCase@62f68dff]" started-at="2023-12-14T02:12:23 EET" name="setUp" finished-at="2023-12-14T02:12:23 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCreateCardInList()[pri:0, instance:TrelloAPIS.Test04_CreateCardInListTestCase@62f68dff]" started-at="2023-12-14T02:12:23 EET" name="testCreateCardInList" finished-at="2023-12-14T02:12:23 EET" depends-on-methods="TrelloAPIS.Test03_AddListToBoardTestCase.testAddListToBoard" duration-ms="843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateCardInList -->
+      </class> <!-- TrelloAPIS.Test04_CreateCardInListTestCase -->
+      <class name="TrelloAPIS.Test08_DeleteBoardTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TrelloAPIS.Test08_DeleteBoardTest@4bc28c33]" started-at="2023-12-14T02:12:26 EET" name="setUp" finished-at="2023-12-14T02:12:26 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDeleteBoard()[pri:0, instance:TrelloAPIS.Test08_DeleteBoardTest@4bc28c33]" started-at="2023-12-14T02:12:26 EET" name="testDeleteBoard" finished-at="2023-12-14T02:12:28 EET" depends-on-methods="TrelloAPIS.Test07_DeleteListTestCase.testDeleteList" duration-ms="1435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteBoard -->
+      </class> <!-- TrelloAPIS.Test08_DeleteBoardTest -->
+      <class name="TrelloAPIS.Test03_AddListToBoardTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TrelloAPIS.Test03_AddListToBoardTestCase@765f05af]" started-at="2023-12-14T02:12:22 EET" name="setUp" finished-at="2023-12-14T02:12:22 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddListToBoard()[pri:0, instance:TrelloAPIS.Test03_AddListToBoardTestCase@765f05af]" started-at="2023-12-14T02:12:22 EET" name="testAddListToBoard" finished-at="2023-12-14T02:12:23 EET" depends-on-methods="testCreateBoard" duration-ms="483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddListToBoard -->
+      </class> <!-- TrelloAPIS.Test03_AddListToBoardTestCase -->
+      <class name="TrelloAPIS.Test07_DeleteListTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TrelloAPIS.Test07_DeleteListTestCase@1d0d6318]" started-at="2023-12-14T02:12:25 EET" name="setUp" finished-at="2023-12-14T02:12:25 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDeleteList()[pri:0, instance:TrelloAPIS.Test07_DeleteListTestCase@1d0d6318]" started-at="2023-12-14T02:12:25 EET" name="testDeleteList" finished-at="2023-12-14T02:12:26 EET" depends-on-methods="TrelloAPIS.Test06_DeleteCardTestCase.testDeleteCard" duration-ms="1001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteList -->
+      </class> <!-- TrelloAPIS.Test07_DeleteListTestCase -->
+      <class name="TrelloAPIS.Test01_CreateBoardTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TrelloAPIS.Test01_CreateBoardTestCase@57ac5227]" started-at="2023-12-14T02:12:15 EET" name="setUp" finished-at="2023-12-14T02:12:17 EET" duration-ms="1623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCreateBoard()[pri:0, instance:TrelloAPIS.Test01_CreateBoardTestCase@57ac5227]" started-at="2023-12-14T02:12:17 EET" name="testCreateBoard" finished-at="2023-12-14T02:12:22 EET" duration-ms="4927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateBoard -->
+      </class> <!-- TrelloAPIS.Test01_CreateBoardTestCase -->
+      <class name="TrelloAPIS.Test05_RetrieveCardsInListTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TrelloAPIS.Test05_RetrieveCardsInListTestCase@f001896]" started-at="2023-12-14T02:12:23 EET" name="setUp" finished-at="2023-12-14T02:12:23 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testRetrieveCardsInList()[pri:0, instance:TrelloAPIS.Test05_RetrieveCardsInListTestCase@f001896]" started-at="2023-12-14T02:12:23 EET" name="testRetrieveCardsInList" finished-at="2023-12-14T02:12:24 EET" depends-on-methods="TrelloAPIS.Test04_CreateCardInListTestCase.testCreateCardInList" duration-ms="477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRetrieveCardsInList -->
+      </class> <!-- TrelloAPIS.Test05_RetrieveCardsInListTestCase -->
+      <class name="TrelloAPIS.Test02_RetrieveBoardTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TrelloAPIS.Test02_RetrieveBoardTestCase@463b4ac8]" started-at="2023-12-14T02:12:22 EET" name="setUp" finished-at="2023-12-14T02:12:22 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testRetrieveBoard()[pri:0, instance:TrelloAPIS.Test02_RetrieveBoardTestCase@463b4ac8]" started-at="2023-12-14T02:12:22 EET" name="testRetrieveBoard" finished-at="2023-12-14T02:12:22 EET" depends-on-methods="TrelloAPIS.Test01_CreateBoardTestCase.testCreateBoard" duration-ms="490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRetrieveBoard -->
+      </class> <!-- TrelloAPIS.Test02_RetrieveBoardTestCase -->
+      <class name="TrelloAPIS.Test06_DeleteCardTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TrelloAPIS.Test06_DeleteCardTestCase@13f17eb4]" started-at="2023-12-14T02:12:24 EET" name="setUp" finished-at="2023-12-14T02:12:24 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDeleteCard()[pri:0, instance:TrelloAPIS.Test06_DeleteCardTestCase@13f17eb4]" started-at="2023-12-14T02:12:24 EET" name="testDeleteCard" finished-at="2023-12-14T02:12:25 EET" depends-on-methods="TrelloAPIS.Test05_RetrieveCardsInListTestCase.testRetrieveCardsInList" duration-ms="1517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteCard -->
+      </class> <!-- TrelloAPIS.Test06_DeleteCardTestCase -->
+    </test> <!-- C:/Users/Belli/IdeaProjects/ITI_Individual_Project -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

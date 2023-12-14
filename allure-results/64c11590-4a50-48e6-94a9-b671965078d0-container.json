@@ -1,0 +1,1 @@
+{"uuid":"64c11590-4a50-48e6-94a9-b671965078d0","name":"TrelloAPIS.Test04_CreateCardInListTestCase","children":["10a3bd1d-6a23-49c7-9616-928275875a2a"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1702512743123,"stop":1702512743123}],"afters":[],"start":1702512735385,"stop":1702512748581}

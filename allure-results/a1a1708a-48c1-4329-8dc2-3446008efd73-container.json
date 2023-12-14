@@ -1,0 +1,1 @@
+{"uuid":"a1a1708a-48c1-4329-8dc2-3446008efd73","name":"test.Test06_DeleteCardTestCase","children":["e866706e-7248-4b60-8cd9-99d707280df1"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1700563407397,"stop":1700563407398}],"afters":[],"start":1700563397835,"stop":1700563410681}

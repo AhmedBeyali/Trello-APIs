@@ -1,0 +1,1 @@
+{"uuid":"141395cb-f28f-499e-a8ed-882eaee34660","name":"test.T5_RetrieveCardsInListTest","children":["cf2eaeb3-a2f7-41ed-b248-58d8b82bf16d"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1700540853125,"stop":1700540853126}],"afters":[],"start":1700540835966,"stop":1700540860132}

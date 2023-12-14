@@ -1,0 +1,1 @@
+{"uuid":"ad301ace-61be-48c9-a919-958d5cc560ba","name":"test.Test04_CreateCardInListTestCase","children":["c0756485-9436-4ba3-aca6-29d367424c98"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1700563406333,"stop":1700563406334}],"afters":[],"start":1700563397834,"stop":1700563410677}

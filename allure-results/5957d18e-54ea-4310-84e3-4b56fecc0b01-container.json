@@ -1,0 +1,1 @@
+{"uuid":"5957d18e-54ea-4310-84e3-4b56fecc0b01","name":"test.Test01_CreateBoardTest","children":["dd9353d1-0215-414f-8a89-b4fd6ca4b6f8"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1700646389086,"stop":1700646389689}],"afters":[],"start":1700646389046,"stop":1700646400439}

@@ -1,0 +1,1 @@
+{"uuid":"3d7be06e-e12f-441e-baeb-0f924dd1685a","name":"TrelloAPIS.Test03_AddListToBoardTestCase","children":["cbce3dfe-8e4d-4115-896c-9d5fa4ca0fca"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1702512742635,"stop":1702512742636}],"afters":[],"start":1702512735385,"stop":1702512748580}
